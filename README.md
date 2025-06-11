@@ -1,4 +1,4 @@
-# HomeAssistant-Install-MiniPC-x86
+# HomeAssistant-Install-MiniPC-x86-64
 Instalar Home Assistant en minipc usando live base de Void Linux
 ## Arrancar desde live de Void Linux
 + login user/pass
