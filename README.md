@@ -17,7 +17,7 @@ lsblk
 ```
 + suponemos /dev/sda para instalar home assistant
 
-+ instalar herraminetas necesarias
++ instalar herramientas necesarias
 ```
 xbps-install -S wget xz
 ```
